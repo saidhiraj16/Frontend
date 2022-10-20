@@ -1,0 +1,19 @@
+body{
+    font-size: 12px;
+    -ms-layout-grid: 1440px;
+    background-color: white hsl(0,0%,100%)
+    lightgray hsl(212,45%,89%)
+    grayishblue hsl(220, 15%, 55%)
+    darkblue hsl(218,44%,22%);
+    font-family: 'Outfit' , sans-serif;
+    
+
+   
+}
+
+
+h4{
+    font-size: 11px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+   
+}
